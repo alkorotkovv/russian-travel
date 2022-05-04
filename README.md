@@ -18,3 +18,4 @@
 - Добавить интерактивности при помощи скриптов
 
 :thumbsup: Спасибо Яндекс.Практикум
+ССылка на сайт https://alkorotkovv.github.io/russian-travel/
