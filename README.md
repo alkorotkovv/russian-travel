@@ -19,4 +19,4 @@
 
 :thumbsup: Спасибо Яндекс.Практикум
 
-Сылка на сайт https://alkorotkovv.github.io/russian-travel/
+Ссылка на сайт https://alkorotkovv.github.io/russian-travel/
