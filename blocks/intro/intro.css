@@ -1,0 +1,32 @@
+.intro {
+  width: 100%;
+  max-width: 984px;
+  margin: 0;
+  padding: 92px 0 0 0;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1200px) {
+  .intro {
+    max-width: 928px;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 950px) {
+  .intro {
+    max-width: 720px;
+    padding-top: 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .intro {
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 64px;
+  }
+}

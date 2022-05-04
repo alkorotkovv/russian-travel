@@ -1,0 +1,12 @@
+.place__description {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 767px) {
+  .place__description {
+    padding: 0 16px;
+	}
+}

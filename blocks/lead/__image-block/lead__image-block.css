@@ -1,0 +1,18 @@
+.lead__image-block {
+  margin: 0;
+  padding: 64px 0 0 0;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 1200px) {
+  .lead__image-block {
+    padding-top: 56px;
+  }
+}
+
+@media (max-width: 767px) {
+  .lead__image-block {
+    padding-top: 40px;
+  }
+}
