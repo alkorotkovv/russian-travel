@@ -11,18 +11,18 @@
 
 @media (max-width: 1200px) {
   .photo-grid__items {
-		grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(4, auto);
     gap: 14px 14px;
-	}
+  }
 }
 
 @media (max-width: 950px) {
   .photo-grid__items {
-		grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, auto);
     gap: 16px 16px;
-	}
+  }
 }
 
 @media (max-width: 767px) {

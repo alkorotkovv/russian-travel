@@ -7,19 +7,19 @@
 
 @media (max-width: 1200px) {
   .places {
-		max-width: 928px;
-	}
+    max-width: 928px;
+  }
 }
 
 @media (max-width: 950px) {
   .places {
-		max-width: 720px;
+    max-width: 720px;
     padding-top: 88px;
-	}
+  }
 }
 
 @media (max-width: 767px) {
   .places {
     padding-top: 64px;
-	}
+  }
 }

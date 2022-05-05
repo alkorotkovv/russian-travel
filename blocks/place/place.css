@@ -14,21 +14,21 @@
   .place {
     grid-template-columns: auto 456px;
     gap: 48px 32px;
-	}
+  }
 }
 
 @media (max-width: 950px) {
   .place {
-	  grid-template-columns: auto 352px;
+    grid-template-columns: auto 352px;
     gap: 48px 28px;
     padding-bottom: 72px;
-	}
+  }
 }
 
 @media (max-width: 767px) {
   .place {
-	  grid-template-columns: auto;
+    grid-template-columns: auto;
     gap: 32px;
     padding-bottom: 50px;
-	}
+  }
 }
